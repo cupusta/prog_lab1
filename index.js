@@ -122,7 +122,7 @@ let max = (p > o) ? p : o;
 console.log("Максимальное значение: " + max);
 
 // 3
-console.log("3");
+console.log("33");
 let number = 5;
 
 switch (number) {
