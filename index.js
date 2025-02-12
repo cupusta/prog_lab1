@@ -29,11 +29,11 @@ console.log("Task 3")
 
 let c = false;
 let d = null;
-let e;
+let E;
 
 console.log("Значение переменной c:", c);
 console.log("Значение переменной d:", d);
-console.log("Значение переменной e:", e);
+console.log("Значение переменной e:", E);
 
 //Задание 4
 console.log("Task 4")
