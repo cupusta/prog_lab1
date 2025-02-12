@@ -14,6 +14,7 @@ console.log("Переменная булин:", typeof(boolean));
 console.log("Переменная объект:", typeof(object));
 
 //Задание 2
+console.log("Task 2")
 
 let a = 10;
 let b = 20;
@@ -24,6 +25,7 @@ console.log("a <= b", a <= b);
 console.log("a > b", a > b);
 
 //Задание 3
+console.log("Task 3")
 
 let c = false;
 let d = null;
@@ -34,6 +36,7 @@ console.log("Значение переменной d:", d);
 console.log("Значение переменной e:", e);
 
 //Задание 4
+console.log("Task 4")
 
 console.log("1" + 2 + 3); //происходит конкатенация строк. "1" + 2 = "12", а затем "12" + 3 = "123"
 console.log(1 + 2 + "3"); //сначала выполняется сложение чисел: 1 + 2 = 3, а затем 3 + "3" = "33"
@@ -53,6 +56,7 @@ console.log(9007199254740991 + 1 == 9007199254740991 + 2);  // Проблемы 
 console.log(Math.sqrt(-1) == Math.sqrt(-1));  // Math.sqrt(-1) = NaN, NaN == NaN → false
 
 //Задание 5
+console.log("Task 5")
 
 let str1 = 'Кто ';
 let str2 = 'ты ';
@@ -63,6 +67,7 @@ concatenation = str1 + str2 + str3;
 console.log(concatenation);
 
 //Задание 6
+console.log("Task 6")
 
 let str = 20;
 let x = 5;
